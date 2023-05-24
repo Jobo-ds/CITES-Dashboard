@@ -6,4 +6,4 @@ The aim of this program is to provide a dashboard for data analysis of the CITES
 This project is in continued development, but based on work from my Master Thesis.
 
 ### Screenshot
-![alt text](https://github.com//Jobo-ds/CITES-Dashboard//Screenshots/[branch]/Dashboard-Full.png?raw=true)
+![Full Dashboard Loaded](https://github.com/Jobo-ds/MasterThesis-CITES/blob/master/screenshots/Dashboard-Full.png?raw=true)
